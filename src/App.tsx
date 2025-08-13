@@ -1,5 +1,5 @@
 
-import SpacePage from '../SpacePage'
+import SpacePage from '../SpacePage.tsx'
 
 function App() {
   return (
